@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnantAgrawal29&theme=dark&hide_border=true" height="160" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnantAgrawal29&theme=dark&hide_border=true&type=png" alt="GitHub Streak" height="160"/></a>
 </p>
 
 <p align="center">
