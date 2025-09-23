@@ -22,14 +22,13 @@
 
 ## 🔥 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux,ps,ai,pr&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux&perline=8" />
 </p>
 
 - **Frontend:** HTML, CSS, JavaScript, SCSS  
 - **Backend:** Flask (Python)  
 - **Programming Languages:** Python, Java (basic DSA)  
-- **Version Control:** Git, GitHub  
-- **Design Tools:** Photoshop, Illustrator, Adobe Firefly (AI)  
+- **Version Control:** Git, GitHub
 - **Other Interests:** Linux customization, Docker, Unreal Engine (for VOKA project)  
 
 ---
