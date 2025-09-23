@@ -1,53 +1,72 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there!%20I'm%20Anant%20Agrawal%20👋&fontSize=35&fontColor=ffffff&animation=twinkling)
+<!-- Header with Photo -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Profile Photo" width="150" height="150" style="border-radius:50%; border: 3px solid #2a5298;">
+</p>
+
+<h1 align="center">Hey 👋 I'm Anant Agrawal</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Web Developer | Python Enthusiast | AI Explorer</h3>
 
 ---
 
-## 🚀 About Me
-🌟 First-year Computer Science Engineering student @ PSIT Kanpur  
-💻 Passionate about **Web Development, Python, and AI**  
-🎮 Tech enthusiast, gamer (RTX 4060 💻), and builder of side-projects like **VOKA** (AI-powered mental well-being app with metahumans)  
-📚 Currently revising **Python, DSA, and Web Dev** | Preparing for **internships & hackathons**
+## 🌟 About Me
+- 🎓 I’m a **Computer Science Engineering student at PSIT Kanpur** (currently in 2nd year).  
+- 💻 I’m passionate about **building impactful projects** with clean design and practical use.  
+- 🛠️ Founder of **VOKA** → an AI-powered mental well-being app with metahuman assistants.  
+- 🌱 I’m currently revising **Python, Web Development, and DSA** while exploring **AI/LLM integration**.  
+- 🎯 My goals:  
+  - Secure meaningful **internships** in my 2nd/3rd year.  
+  - Contribute to **open-source & hackathons**.  
+  - Build a solid portfolio of **AI + Web projects**.  
 
 ---
 
 ## 🔥 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux,ps,ai,pr" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux,ps,ai,pr&perline=8" />
 </p>
+
+- **Frontend:** HTML, CSS, JavaScript, SCSS  
+- **Backend:** Flask (Python)  
+- **Programming Languages:** Python, Java (basic DSA)  
+- **Version Control:** Git, GitHub  
+- **Design Tools:** Photoshop, Illustrator, Adobe Firefly (AI)  
+- **Other Interests:** Linux customization, Docker, Unreal Engine (for VOKA project)  
 
 ---
 
 ## 📂 Featured Projects
-### 🌐 Web Dev & UI
-- 🎨 [**CSS-MySite**](https://github.com/AnantAgrawal29/CSS-MySite) → Responsive portfolio-style site  
-- 🪪 [**name-card**](https://github.com/AnantAgrawal29/name-card) → Digital card with SCSS styling  
-- 📄 [**cv**](https://github.com/AnantAgrawal29/cv) → Personal résumé website  
 
-### ⚙️ Full Stack
-- 📝 [**new-blog-website-complete**](https://github.com/AnantAgrawal29/new-blog-website-complete) → Blog app with Flask backend  
+### 🌐 Web Development & UI
+- 🎨 [**CSS-MySite**](https://github.com/AnantAgrawal29/CSS-MySite) → Responsive personal portfolio-style site.  
+- 🪪 [**name-card**](https://github.com/AnantAgrawal29/name-card) → Digital card built with SCSS and custom design.  
+- 📄 [**cv**](https://github.com/AnantAgrawal29/cv) → Online résumé/portfolio webpage.  
+
+### ⚙️ Full-Stack
+- 📝 [**new-blog-website-complete**](https://github.com/AnantAgrawal29/new-blog-website-complete) → Blog website using Flask, templates, and routing.  
 
 ### 📚 Learning Journey
-- 💯 [**100-days-of-web-development**](https://github.com/AnantAgrawal29/100-days-of-web-development) → Daily structured practice  
+- 💯 [**100-days-of-web-development**](https://github.com/AnantAgrawal29/100-days-of-web-development) → Daily learning and practice of web development fundamentals.  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantAgrawal29&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantAgrawal29&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantAgrawal29&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantAgrawal29&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🎮 Fun Side
-- 🕹️ Gaming on my **RTX 4060** laptop (Mass Effect fan ⚡)  
-- 🛠️ Experimenting with **custom Linux distros & Docker**  
-- 🌍 Exploring **AI/LLM integration** in projects  
+## 🎯 Current Goals
+✔️ Strengthen **Data Structures & Algorithms** in Python/Java  
+✔️ Complete **100 Days of Web Dev** challenge  
+✔️ Build **full-stack apps** with Flask + React  
+✔️ Participate in **hackathons** & collaborate on open-source  
+✔️ Prepare for **internship interviews** with strong projects & coding practice  
 
 ---
 
