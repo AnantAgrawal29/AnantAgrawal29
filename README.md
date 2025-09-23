@@ -1,6 +1,6 @@
 <!-- Header with Photo -->
 <p align="center">
-  <img src="profile.jpg" alt="Profile Photo" width="200" height="200" style="border-radius:100%; border: 3px solid #2a5298;">
+  <img src="profile.png" alt="Profile Photo" width="200" height="200" style="border-radius:100%; border: 3px solid #2a5298;">
 </p>
 
 <h1 align="center">Hey 👋 I'm Anant Agrawal</h1>
