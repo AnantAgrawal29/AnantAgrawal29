@@ -8,6 +8,15 @@
 
 ---
 
+## 🎯 Current Goals
+✔️ Strengthen **Data Structures & Algorithms** in Python/Java  
+✔️ Complete **100 Days of Web Dev** challenge  
+✔️ Build **full-stack apps** with Flask + React  
+✔️ Participate in **hackathons** & collaborate on open-source  
+✔️ Prepare for **internship interviews** with strong projects & coding practice  
+
+---
+
 ## 🌟 About Me
 - 🎓 I’m a **Computer Science Engineering student at PSIT Kanpur** (currently in 2nd year).  
 - 💻 I’m passionate about **building impactful projects** with clean design and practical use.  
@@ -57,15 +66,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantAgrawal29&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
-
-## 🎯 Current Goals
-✔️ Strengthen **Data Structures & Algorithms** in Python/Java  
-✔️ Complete **100 Days of Web Dev** challenge  
-✔️ Build **full-stack apps** with Flask + React  
-✔️ Participate in **hackathons** & collaborate on open-source  
-✔️ Prepare for **internship interviews** with strong projects & coding practice  
 
 ---
 
