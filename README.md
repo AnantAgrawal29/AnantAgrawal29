@@ -20,7 +20,7 @@
 ## 🌟 About Me
 - 🎓 I’m a **Computer Science Engineering student at PSIT Kanpur** (currently in 2nd year).  
 - 💻 I’m passionate about **building impactful projects** with clean design and practical use.  
-- 🛠️ Founder of **VOKA** → an AI-powered mental well-being app with metahuman assistants.  
+- 🛠️ Featured Project **VOKA** → an AI-powered mental well-being app with metahuman assistants.  
 - 🌱 I’m currently revising **Python, Web Development, and DSA** while exploring **AI/LLM integration**.  
 - 🎯 My goals:  
   - Secure meaningful **internships** in my 2nd/3rd year.  
