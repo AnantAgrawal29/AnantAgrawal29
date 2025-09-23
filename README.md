@@ -1,6 +1,6 @@
 <!-- Header with Photo -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Profile Photo" width="150" height="150" style="border-radius:50%; border: 3px solid #2a5298;">
+  <img src="profile.jpg" alt="Profile Photo" width="150" height="150" style="border-radius:50%; border: 3px solid #2a5298;">
 </p>
 
 <h1 align="center">Hey 👋 I'm Anant Agrawal</h1>
