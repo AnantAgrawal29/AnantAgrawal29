@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   
 </p>
 <p align="center">
