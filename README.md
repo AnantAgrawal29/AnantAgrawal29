@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-<p>
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnantAgrawal29&theme=tokyonight&hide_border=true&card_height=160" alt="GitHub Streak" height="160" /></a>
 </p>
 <p align="center">
