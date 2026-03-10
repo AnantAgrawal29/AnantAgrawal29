@@ -9,7 +9,7 @@
 ---
 
 ## 🎯 Current Goals
-✔️ Strengthen **Data Structures & Algorithms** in Python/Java  
+✔️ Strengthen **Data Structures & Algorithms** in Java  
 ✔️ Complete **100 Days of Web Dev** challenge  
 ✔️ Build **full-stack apps** with Flask + React  
 ✔️ Participate in **hackathons** & collaborate on open-source  
