@@ -31,7 +31,7 @@
 
 ## 🔥 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux,node,react&perline=8" />
 </p>
 
 - **Frontend:** HTML, CSS, JavaScript, SCSS  
