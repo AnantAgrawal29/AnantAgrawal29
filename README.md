@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey 👋 I'm Anant Agrawal</h1>
-<p align="center">🚀 <i>Aspiring Software Engineer | Web Developer | Python Enthusiast | AI Explorer</i></p>
+<p align="center">🚀 <i>Software Engineer | Web Developer | Python Enthusiast | AI Explorer</i></p>
 
 ---
 
