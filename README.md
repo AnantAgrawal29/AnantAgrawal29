@@ -1,77 +1,127 @@
-<!-- Header with Photo -->
-<p align="center">
-  <img src="profile.png" alt="Profile Photo" width="200" height="200" style="border-radius:100%; border: 3px solid #2a5298;">
-</p>
+<div align="center">
 
-<h1 align="center">Hey 👋 I'm Anant Agrawal</h1>
-<p align="center">🚀 <i>Software Engineer | Web Developer | Python Enthusiast | AI Explorer</i></p>
+<img src="https://github.com/AnantAgrawal29/AnantAgrawal29/raw/main/banner.svg" alt="Anant Agrawal — Full-Stack Developer, Building AI-Integrated Systems" width="100%"/>
 
----
+<a href="https://github.com/AnantAgrawal29"><img src="https://komarev.com/ghpvc/?username=AnantAgrawal29&color=e0262c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/AnantAgrawal29?tab=followers"><img src="https://img.shields.io/github/followers/AnantAgrawal29?style=for-the-badge&color=132a6e&labelColor=0a1638" alt="GitHub followers"/></a>
 
-## 🎯 Current Goals
-✔️ Strengthen **Data Structures & Algorithms** in Java  
-✔️ Complete **100 Days of Web Dev** challenge  
-✔️ Build **full-stack apps** with Flask + React  
-✔️ Participate in **hackathons** & collaborate on open-source  
-✔️ Prepare for **internship interviews** with strong projects & coding practice  
+</div>
 
----
+<br/>
 
-## 🌟 About Me
-- 🎓 I’m a **Computer Science Engineering student at PSIT Kanpur** (currently in 2nd year).  
-- 💻 I’m passionate about **building impactful projects** with clean design and practical use.  
-- 🛠️ Featured Project **VOKA** → an AI-powered mental well-being app with metahuman assistants.  
-- 🌱 I’m currently revising **Python, Web Development, and DSA** while exploring **AI/LLM integration**.  
-- 🎯 My goals:  
-  - Secure meaningful **internships** in my 2nd/3rd year.  
-  - Contribute to **open-source & hackathons**.  
-  - Build a solid portfolio of **AI + Web projects**.  
+<table>
+<tr>
+<td width="230" valign="top">
 
----
+<img src="https://github.com/AnantAgrawal29/AnantAgrawal29/raw/main/badge.svg" alt="Anant Agrawal ID badge" width="220"/>
 
-## 🔥 Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,linux,nodejs,react&perline=12" />
-</p>
+</td>
+<td valign="top">
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Flask (Python), Node JS
-- **Programming Languages:** Python, Java (basic DSA)  
-- **Version Control:** Git, GitHub
-- **Other Interests:** Linux customization, Docker, Unreal Engine (for VOKA project)  
+### 🕸️ About Me
+
+I'm a B.Tech Computer Science student at PSIT, Kanpur, building complete systems rather than isolated demos — a frontend, a backend, a database, and increasingly an AI layer, all wired together and shipped as one working product.
+
+- 🏗️ Comfortable across the stack: **React** on the frontend, **Java Spring Boot** or **Node.js/Express** for core backend services, and **Python/FastAPI** when a service needs to wrap a custom AI model or LLM pipeline.
+- 🤖 Currently deep in an AI-companion system (**VOKA**) — a local-LLM-backed chatbot with multiple character personas and an emotion-inference layer.
+- 📚 Sharpening data structures & algorithms alongside project work, with an eye on internships for 2027.
+- 🌱 Exploring embeddings, vector databases, and fine-tuning as VOKA moves from prototype toward a standalone product.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Tech Web
 
-### 🌐 Web Development & UI
-- 🎨 [**CSS-MySite**](https://github.com/AnantAgrawal29/CSS-MySite) → Responsive personal portfolio-style site.  
-- 🪪 [**name-card**](https://github.com/AnantAgrawal29/name-card) → Digital card built with SCSS and custom design.  
-- 📄 [**cv**](https://github.com/AnantAgrawal29/cv) → Online résumé/portfolio webpage.  
+<p align="center">
+<b>Frontend</b><br/>
+<img src="https://img.shields.io/badge/React-0a1638?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-e0262c?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-132a6e?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0a1638?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
-### ⚙️ Full-Stack
-- 📝 [**new-blog-website-complete**](https://github.com/AnantAgrawal29/new-blog-website-complete) → Blog website using Flask, templates, and routing.  
+<p align="center">
+<b>Backend</b><br/>
+<img src="https://img.shields.io/badge/Java-e0262c?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-132a6e?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Node.js-0a1638?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-e0262c?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-132a6e?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-### 📚 Learning Journey
-- 💯 [**100-days-of-web-development**](https://github.com/AnantAgrawal29/100-days-of-web-development) → Daily learning and practice of web development fundamentals.  
+<p align="center">
+<b>AI / Data</b><br/>
+<img src="https://img.shields.io/badge/Python-0a1638?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/FastAPI-e0262c?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-132a6e?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-0a1638?style=for-the-badge&logo=kaggle&logoColor=20BEFF"/>
+</p>
+
+<p align="center">
+<b>Tools</b><br/>
+<img src="https://img.shields.io/badge/Git-e0262c?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-132a6e?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-0a1638?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🎯 Featured Builds
+
+| 🎬 Project | 🧰 Tech | ⭐ |
+|---|---|---|
+| [🕷️ VOKA — AI Companion System](https://github.com/AnantAgrawal29/voka) | `Python` `Ollama` `LLM` | 1 |
+| [🛒 Full-Stack E-Commerce Shop](https://github.com/AnantAgrawal29/Backend/tree/main/online%20shop) | `Node.js` `Express` `EJS` | — |
+| [📝 Flask Blog Platform](https://github.com/AnantAgrawal29/new-blog-website-complete) | `Python` `Flask` `SQLite` | 1 |
+
+> **VOKA** — a local-LLM-powered companion built on Ollama, with five distinct character personas and a custom emotion-inference layer that reads context before responding, rather than just chaining prompts.
+>
+> **E-Commerce Shop** — a full-stack storefront on Node.js/Express with EJS-rendered views, covering session-based auth, a persistent product/cart layer, and secure request handling end to end.
+>
+> **Flask Blog** — a CRUD blogging platform with WTForms-driven forms, SQLite persistence, and Jinja templating, deployed with a Procfile for Heroku-style hosting.
+
+> 🕸️ *"With great commits comes great responsibility."*
+
+---
+
+### 📊 Web-Slinging Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnantAgrawal29&show_icons=true&theme=dark&hide_border=true&bg_color=0a1638&title_color=e0262c&icon_color=f4c542&text_color=cfd8f0&ring_color=e0262c" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantAgrawal29&layout=compact&theme=dark&hide_border=true&bg_color=0a1638&title_color=e0262c&text_color=cfd8f0" width="35%" alt="Top Languages"/>
 </p>
+
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnantAgrawal29&theme=tokyonight&hide_border=true&card_height=160" alt="GitHub Streak" height="160" /></a>
+<img src="https://streak-stats.demolab.com/?user=AnantAgrawal29&theme=dark&hide_border=true&background=0a1638&ring=e0262c&fire=f4c542&currStreakLabel=e0262c" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantAgrawal29&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantAgrawal29&theme=react-dark&bg_color=0a1638&color=e0262c&line=e0262c&point=f4c542&hide_border=true" width="95%" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnantAgrawal29&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
+
+### 🕸️ Watch the Web Get Cleared
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AnantAgrawal29/AnantAgrawal29/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Let's Connect
+
 <p align="center">
-  <a href="https://github.com/AnantAgrawal29"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anant-agrawal-81a0aa21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anant-agrawal-81a0aa21a/"><img src="https://img.shields.io/badge/LinkedIn-132a6e?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:agrawalanant2021@gmail.com"><img src="https://img.shields.io/badge/Email-e0262c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/AnantAgrawal29"><img src="https://img.shields.io/badge/GitHub-0a1638?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<div align="center">
+<i>🕸️ Currently swinging between DSA practice and shipping VOKA. 🕸️</i>
+</div>
